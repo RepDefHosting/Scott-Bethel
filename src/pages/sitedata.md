@@ -1,31 +1,31 @@
 ---
-templateKey: 'site-data'
+templateKey: site-data
 published: false
-name: '{{client_name}}'
-jobTitle: '{{job_title}}'
-siteName: '{{site_name}}'
-siteUrl: 'https://{{site_url}}'
-siteAnalytics: ~
+name: Scott Bethel
+jobTitle: Director of Operations, STR
+siteName: scottbethel.com
+siteUrl: https://ScottBethel.com
+siteAnalytics: null
+favicon: /img/favicon.png
+fallbackImage: /img/scott-bethel.jpg
 socialLinks:
   twitter:
-    url: ''
+    url: ""
     show: false
   facebook:
-    url: ''
+    url: ""
     show: false
   linkedin:
-    url: ''
-    show: false
+    url: https://www.linkedin.com/in/scott-bethel-tx
+    show: true
   pinterest:
-    url: ''
-    show: false
+    url: https://www.pinterest.com/scottbetheltx/
+    show: true
   instagram:
-    url: ''
+    url: ""
     show: false
-favicon: '/img/favicon.png'
-fallbackImage: '/img/headshot.jpg'
 themeOptions:
-  colorScheme: 'londn'
-  fontScheme: 'muli'
+  colorScheme: londn
+  fontScheme: muli
   showThemeSwitcher: false
 ---
