@@ -23,5 +23,5 @@ shortBiography: A San Antonio area-based property manager and decorated United
 learnMoreButton:
   link: /about/
   label: Read More
-showRecentPosts: false
+showRecentPosts: true
 ---
