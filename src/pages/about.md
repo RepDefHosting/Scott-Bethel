@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
 pageSlug: /about
-pageTitle: About Scott Bethel
-metaDescription: Biography of Scott Bethel, Director of Operations, STR
+pageTitle: About Scott A. Bethel
+metaDescription: Biography of Scott A. Bethel, Director of Operations, STR
 published: true
 schemaType: AboutPage
 header: About Scott Bethel
