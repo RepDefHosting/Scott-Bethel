@@ -6,25 +6,28 @@ metaDescription: Biography of Scott Bethel, Director of Operations, STR
 published: true
 schemaType: AboutPage
 header: About Scott Bethel
-subheader: Career highlights past and present
+subheader: Retired General
 featuredImage:
   src: ""
   alt: ""
   caption: null
 longBiography_MD: >-
-  A San Antonio area-based property manager and decorated United States Air
-  Force (USAF) officer, [Scott Bethel is the director of operations at
-  STR](https://scottbethel.mystrikingly.com/), where he manages more than 125
-  short-term real estate properties. He founded Integrity ISR in 2012 and served
-  as CEO of the company for a decade. During that time, he grew the business to
-  employ 40 people and earned annual revenues of $5 million. [Scott
-  Bethel](https://medium.com/@scottbethel) worked with prime and sub-contract
-  partners such as the USAF, Leidos, Fairfax National Security Solutions, and
-  Lockheed Martin.
+  [Scott Bethel is the President and CEO of
+  IntegrityISR](https://www.idga.org/events-intelligenceanalyticssummit/speakers/scott-bethel)
+  and serves as Senior Vice President for International and Intelligence
+  Training Programs at JMark Services. A retired United States Air Force
+  brigadier general, he brings 27 years of leadership experience in
+  intelligence, cyber operations, kinetic targeting, unmanned systems, and
+  education. As a strategic expert in Intelligence, Surveillance, and
+  Reconnaissance (ISR), Mr. Bethel focuses on enhancing ISR and cyber training
+  programs for both U.S. and international partners.
 
 
-  [Scott Bethel](https://scottbethel.tumblr.com/) spent over 25 years with the USAF and became a senior officer. He last served the military arm as vice commander of the Air Force Intelligence Surveillance and Reconnaissance Agency. He completed six deployments with the USAF and earned various awards and decorations, including the Legion of Merit, Combat Action Medal, Joint Service Commendation Medal, and Iraq Campaign Medal.
+  Throughout his distinguished career, Mr. Bethel has worked with a range of organizations, including SAP National Security Services, Fairfax National Security Solutions, Johns Hopkins Applied Physics Lab, and Raytheon. His international collaborations span countries such as Saudi Arabia, the UAE, Poland, and Mexico, among others. A recognized thought leader, he has extensively published on ISR systems, cyber strategy, and modernization efforts.
 
 
-  [Mr. Bethel](https://www.behance.net/scottbethel) leverages his intelligence and security experience to serve as visiting distinguished practitioner of intelligence at Angelo State University. He's also an emertius member of the board of directors for the National Military Intelligence Association. He holds a master's degree in strategic intelligence from Defense Intelligence College and a bachelor of arts in political science and history from Northern Illinois University.
+  On active duty, [Mr. Bethel served as Vice Commander of the Air Force ISR Agency](https://www.jbsa.mil/News/News/Article/463458/brig-gen-scott-bethel-receives-first-star/), overseeing intelligence operations and training. He also commanded the 17th Training Wing at Goodfellow Air Force Base, responsible for the initial training of all Air Force intelligence personnel. He holds a master’s degree in strategic intelligence from the Defense Intelligence College and a bachelor’s degree in political science and history from Northern Illinois University.
+
+
+  In addition to his corporate roles, Mr. Bethel is a Professor at Angelo State University and serves on various academic and professional boards.
 ---
