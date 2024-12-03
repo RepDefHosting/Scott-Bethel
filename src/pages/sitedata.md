@@ -3,7 +3,7 @@ templateKey: site-data
 published: false
 name: Scott Bethel
 jobTitle: Director of Operations, STR
-siteName: scottbethel.com
+siteName: Scott Bethel
 siteUrl: https://ScottBethel.com
 siteAnalytics: null
 favicon: /img/favicon.png
